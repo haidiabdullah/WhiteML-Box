@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# Build outputs
+build/
+dist/
+installer/
+*.spec
+*.egg-info/
+
+# Local outputs from WhiteML-Box
+outputs/
+results/
+*_prediction_map.tif
+*_mapping_config.json
+*.joblib
+*.pkl
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs/temp
+*.log
+*.tmp

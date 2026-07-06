@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use WhiteML-Box, please cite the associated SoftwareX article and this archived software release."
+title: "WhiteML-Box: an open-source graphical toolbox for spectral machine-learning-based vegetation trait modelling and mapping"
+version: "0.7.2"
+date-released: "2026-07-06"
+license: "MIT"
+authors:
+  - family-names: "Abdullah"
+    given-names: "Haidi"
+  - family-names: "Neinavaz"
+    given-names: "Elnaz"
+  - family-names: "Darvishzadeh"
+    given-names: "Roshanak"
+repository-code: "https://github.com/haidiabdullah/WhiteML-Box"
+url: "https://github.com/haidiabdullah/WhiteML-Box"
